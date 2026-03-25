@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/metaf/Desktop/Java/MetaChain/src/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/metaf/git/metachain/MetaChain/src/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/metaf/git/metachain/MetaChain/src/bcprov-jdk18on-1.83.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
